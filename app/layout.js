@@ -4,8 +4,8 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Contact Form",
-  description: "A simple contact form with Next.js",
+  title: "Verification Form",
+  description: "Request Instagram Verification Badge",
 };
 
 export default function RootLayout({ children }) {
